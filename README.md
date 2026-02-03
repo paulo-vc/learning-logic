@@ -15,4 +15,5 @@ This repository also includes exercises and examples from online courses and pla
 ## 🎯 Purpose
 The goal of this repository is to track my learning progress and keep organized notes in code form.  
 These are **small practice files and exercises**, not full projects.
+
 Complete applications and larger projects are published in separate repositories on my profile.
